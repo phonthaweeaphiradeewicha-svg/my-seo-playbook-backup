@@ -1,4 +1,10 @@
 # Portfolio Project 
+Creative Commons Attribution-NonCommercial 4.0 International
+(CC BY-NC 4.0)
+
+Copyright (c) 2026 Phon Thaweeaphiradeewicha
+
+You are free to VIEW this work only.
 ## Tools Installed
 - **Cursor IDE** - Downloaded from https://cursor.com/ and installed on Windows
 - **Git** - Downloaded from https://git-scm.com/install/windows and installed on Windows

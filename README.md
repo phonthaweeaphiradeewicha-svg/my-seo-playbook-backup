@@ -29,6 +29,34 @@
 - I had trouble to rename the repository on **GitHub**, but I clicked twice, so it worked. 
 - During the time that I got completely stuck, I used Claude AI to help diagnose the issue and find solutions, then verified and applied the fixes myself.
 
+## Stage 2: Research Repository
+
+Based on the assignment brief, I researched 10 experts
+in AI-Powered SEO Content Production across three
+platforms and organized everything into a structured
+GitHub repository.
+
+The research includes:
+- 4 YouTube transcripts from Julian Goldie, Matt Kenyon,
+  Nathan Gotch, and AI Master covering AI SEO systems,
+  content automation, multi-platform visibility, and
+  video-to-blog workflows
+- 4 LinkedIn posts from Jake Ward, Lily Ray, Eli Schwartz,
+  and Ross Simmonds covering AI citation data, GEO
+  strategy, content quality warnings, and algorithm
+  history
+- 2 blog sources from Aleyda Solis and Georgie Kemp
+  covering AI search optimization frameworks and YouTube
+  optimization for AI citations
+
+Experts were chosen because they practice what they
+teach, publish regularly with recent 2025-2026 content,
+and represent genuinely different — sometimes opposing
+— perspectives on AI-powered SEO production.
+
+See [/research/sources.md](research/sources.md) for
+the full list of experts with links and annotations.
+
 ## Stage 3: Strategic Playbook
 
 Based on the research collected in Stage 2, I produced

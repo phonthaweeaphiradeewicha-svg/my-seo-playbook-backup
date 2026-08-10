@@ -12,4 +12,3 @@ You may NOT:
 - Adapt or build upon this work without written permission
 
 Full license: https://creativecommons.org/licenses/by-nc/4.0/
-Contact: [your email]

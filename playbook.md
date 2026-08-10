@@ -3,37 +3,35 @@
 **Author:** Phon Thaweeaphiradeewicha
 **Last Updated:** August 2026
 **License:** CC BY-NC 4.0 — Commercial use strictly prohibited.
-**Research Base:** See [/research/sources.md] for all sources.
+**Research Base:** See [/research/sources.md](research/sources.md)
 
 ---
 
 ## ⚠️ Usage Notice
 This playbook contains original strategic analysis built
-from 6 months of research. No copy-paste prompts or
-templates are provided intentionally. What is provided
-are analytical frameworks and validation criteria that
-require human judgment to apply.
+from researching 10 practitioners across LinkedIn, YouTube,
+and blogs. No copy-paste prompts or templates are provided
+intentionally. What is provided are analytical frameworks
+and validation criteria that require human judgment to apply.
 
 ---
 
 ## 1. Core Principle
 
-The central finding from researching 10 experts across
-LinkedIn, YouTube, and blogs is this: AI-powered SEO
-content production is not a shortcut — it is a
-multiplier. It multiplies good strategy into great
-results, and bad strategy into faster failure.
+The central finding from researching 10 experts is this:
+AI-powered SEO content production is not a shortcut —
+it is a multiplier. It multiplies good strategy into
+great results, and bad strategy into faster failure.
 
-Every expert who is currently winning with AI SEO shares
-one trait: they ground AI output in real human experience,
-original data, or genuine expertise. Every expert whose
-approach has crashed or will crash shares one trait: they
-use AI purely to produce volume with no unique signal
-behind it.
+Every expert who is currently winning shares one trait:
+they ground AI output in real human experience, original
+data, or genuine expertise. Every approach that has
+crashed or will crash shares one trait: volume with no
+unique signal behind it.
 
 The strategic question is never "how do I produce more
-content with AI?" It is always "what unique signal do I
-have that AI can help me scale?"
+content with AI?" It is always "what unique signal do
+I have that AI can help me scale?"
 
 ---
 
@@ -41,8 +39,8 @@ have that AI can help me scale?"
 
 ![AI SEO Content Production Framework](research/other/framework-diagram.png)
 
-*See /research/sources.md for the research base
-behind this framework.*
+*See [/research/sources.md](research/sources.md) for
+the research base behind this framework.*
 
 The framework operates on three validation criteria:
 
@@ -51,158 +49,257 @@ Before producing any AI content, ask: what does this
 page have that no AI could generate from public data
 alone? If the answer is nothing, the content will not
 survive the next algorithm update.
+(Source: Eli Schwartz, LinkedIn, 2026 —
+https://www.linkedin.com/posts/schwartze_many-think-ai-content-is-the-new-silver-bullet-share-7456620033339904000)
 
 **Criterion 2: Survivability Test**
 Ask: if Google launched a Helpful Content Update
 tomorrow, would this page survive? Pages that survive
-HCU updates share three traits — firsthand experience,
-original data, and genuine usefulness to a real person.
+share three traits — firsthand experience, original
+data, and genuine usefulness to a real person.
+(Source: Lily Ray, LinkedIn, 2026 —
+https://www.linkedin.com/pulse/another-way-youre-being-lied-geo-ai-search-lily-ray-t8shf/)
 
 **Criterion 3: AI Visibility Test**
 Ask: would an AI assistant like ChatGPT or Perplexity
-cite this page when answering a question in my niche?
-Pages that get cited share three traits — specific
-claims, verifiable data, and clear entity signals.
+cite this page? Pages that get cited share three traits
+— specific claims, verifiable data, and clear entity
+signals, especially appearances in "best X" lists.
+(Source: Jake Ward, LinkedIn, 2026 —
+https://www.linkedin.com/posts/jakezward_438-of-ai-citations-come-from-best-x-activity-7470081516916776960)
 
 ---
 
-## 3. Where Experts Disagree
+## 3. Key Recommendations
 
-### Disagreement 1: Does AI Content Work Long-Term?
+**Recommendation 1: Start at the bottom of the funnel**
+Build money pages first — product, service, and pricing
+pages that directly convert. Then build one topical
+cluster connected to a money page before starting the
+next. Finish one cluster completely before moving on.
+(Source: Matt Kenyon, YouTube, 2026 —
+https://youtu.be/7DRO4rEIHDk)
+
+**Recommendation 2: Use real buyer language**
+Pull content ideas from Search Console long-tail
+queries, People Also Ask boxes, Reddit, sales calls,
+and support tickets — not just keyword tools. AI tools
+generate generic outlines; real audience language
+generates unique angles.
+(Source: Aleyda Solis, aleydasolis.com, June 2026 —
+https://www.aleydasolis.com/en/ai-search/ai-search-prompt-library/)
+
+**Recommendation 3: Optimize YouTube for AI citations**
+Recent Ahrefs research analyzing 75,000 brands found
+YouTube mentions outperform every other factor for AI
+visibility — including domain rating and backlinks.
+Up to 29.5% of Google's AI Overviews cite YouTube,
+making it the top cited domain overall. Focus on
+transcript quality, not thumbnails or watch time.
+(Source: Georgie Kemp, womenintechseo.com, 2026 —
+https://www.womenintechseo.com/knowledge/optimise-existing-videos-for-ai-search/)
+
+**Recommendation 4: Target "best X" list placements**
+43.8% of AI citations come from "best X" lists — more
+than blog posts, landing pages, and homepages combined.
+Being mentioned near the top of these lists matters
+more than being included anywhere. Build consensus
+across multiple trusted sources mentioning your brand.
+(Source: Jake Ward, LinkedIn, 2026 —
+https://www.linkedin.com/posts/jakezward_438-of-ai-citations-come-from-best-x-activity-7470081516916776960)
+
+**Recommendation 5: Ground AI content in case studies**
+Before generating any AI content, identify a real
+case study or firsthand data point to embed. The case
+study is what makes the content rank — it provides
+something no competitor's AI can replicate.
+(Source: Julian Goldie, YouTube, June 2026 —
+https://youtu.be/8NAjD6HcHzk)
+
+**Recommendation 6: Track AI visibility separately**
+Traditional Search Console does not show AI mentions.
+You need to manually query ChatGPT, Perplexity, and
+Google AI Mode with your target keywords and track
+whether your brand appears, on which platforms, and
+how prominently. Treat each platform separately —
+visibility in one does not guarantee visibility in
+another.
+(Source: Nathan Gotch, YouTube, 2026 —
+https://youtu.be/HzgMpTVJpz0)
+
+**Recommendation 7: Add citations, statistics, and
+quotations to content**
+Academic GEO research found that adding citations,
+quotations from relevant sources, and statistics
+boosted source visibility by over 40% in generative
+engine responses. Simple keyword stuffing showed
+no improvement.
+(Source: Ross Simmonds, LinkedIn, 2026 —
+https://www.linkedin.com/pulse/whats-generative-engine-optimization-geo-how-do-ross-simmonds-wol8c/)
+
+**Recommendation 8: One video becomes many assets**
+From one filming session: a full YouTube video, short
+clips for social media, and a blog post from the
+transcript. Run the transcript through Claude with
+a prompt to turn it into a full article including
+SEO keyword suggestions. The blog post step takes
+about 16 minutes.
+(Source: AI Master, YouTube, 2026 —
+https://youtu.be/duGOA6ZiGtE)
+
+---
+
+## 4. Where Experts Disagree
+
+### Disagreement 1: Does AI Content Volume Work
+Long-Term?
 
 **Julian Goldie recommends:**
 Using AI agents to produce and deploy 5 articles per
 keyword across multiple websites simultaneously,
 prioritizing speed and volume as the core advantage.
-(Source: Julian Goldie, YouTube —
-"Claude AI SEO System", June 2026)
+Sites using this method grew from 2 clicks per day
+to 200 clicks per day.
+(Source: Julian Goldie, YouTube, June 2026 —
+https://youtu.be/8NAjD6HcHzk)
 
 **Eli Schwartz recommends:**
-Treating AI content with extreme caution, arguing that
-the current AI content boom is identical to the
-"content spinning" era of 2009 — which Google wiped
-out overnight with the Panda update in 2011.
-(Source: Eli Schwartz, LinkedIn post, 2026)
+Treating AI content volume with extreme caution. The
+current AI content boom is identical to the "content
+spinning" era of 2009 — which Google wiped out
+overnight with Panda in 2011. The pattern is always
+the same: shortcut works, everyone piles in, Google
+nukes it, everyone acts surprised.
+(Source: Eli Schwartz, LinkedIn, 2026 —
+https://www.linkedin.com/posts/schwartze_many-think-ai-content-is-the-new-silver-bullet-share-7456620033339904000)
 
 **My position: Eli Schwartz is correct.**
-Julian Goldie's results are real right now, but Lily
-Ray's data shows identical traffic patterns to sites
-that crashed in 2023's Helpful Content Update. Volume
-without unique signal is a short-term strategy. The
-sites growing in Julian Goldie's screenshots look
-exactly like the sites in Lily Ray's crash data —
-before they crashed.
+Julian Goldie's results are real right now, but the
+traffic growth pattern on his sites looks identical
+to sites in Lily Ray's HCU crash data — before they
+crashed. Volume without unique signal is a short-term
+strategy. The correction will not be gradual.
 
 ---
 
-### Disagreement 2: Do You Need to Optimize Specifically for AI Search?
+### Disagreement 2: Do You Need Special AI Search
+Optimization?
 
-**Aleyda Solis recommends:**
-Building structured AI search prompt libraries,
-measuring brand presence across ChatGPT, Perplexity,
-and Google AI Mode separately, and actively optimizing
-content for AI visibility as a distinct discipline.
-(Source: Aleyda Solis, aleydasolis.com,
-"AI Search Optimization Checklist", May 2026)
+**Ross Simmonds recommends:**
+Actively implementing GEO strategies — adding
+citations, quotations, statistics, and structured
+data specifically to optimize for generative AI
+engines. Academic research shows this can boost
+AI visibility by up to 40%.
+(Source: Ross Simmonds, LinkedIn, 2026 —
+https://www.linkedin.com/pulse/whats-generative-engine-optimization-geo-how-do-ross-simmonds-wol8c/)
 
 **Lily Ray recommends:**
-Being skeptical of GEO/AEO optimization claims,
-arguing that most brands appearing in AI search do so
-because of existing brand strength and training data —
-not because of any special AI optimization work.
-(Source: Lily Ray, LinkedIn post, 2026)
+Being deeply skeptical of GEO/AEO optimization
+claims. Many brands appearing in AI search do so
+because of existing brand strength and training
+data — not because of any special optimization.
+Google is on record saying "good SEO is good GEO"
+and that you "don't have to do anything different
+for inclusion in AIO/AI Mode."
+(Source: Lily Ray, LinkedIn, 2026 —
+https://www.linkedin.com/pulse/another-way-youre-being-lied-geo-ai-search-lily-ray-t8shf/)
 
 **My position: Both are partially correct.**
-Lily Ray is right that strong brands earn AI visibility
-automatically. But Aleyda Solis is right that measuring
-and understanding where you appear — and where you
-don't — is essential for identifying gaps. The mistake
-is paying for "GEO optimization" services that promise
-guaranteed AI visibility. The smart move is using
-Aleyda's measurement framework yourself, for free.
+Lily Ray is right that strong brands earn AI
+visibility automatically through training data.
+But Ross Simmonds' academic evidence that citations
+and statistics boost visibility by 40% is hard to
+ignore. The mistake is paying for guaranteed GEO
+services. The smart move is applying the citation
+and statistics principles yourself, at no extra cost,
+as part of normal content production.
 
 ---
 
-### Disagreement 3: Should You Use Third-Party SEO Tools or AI Agents?
+### Disagreement 3: Where Should AI Visibility
+Come From — Your Site or Third-Party Sources?
 
-**Julian Goldie recommends:**
-Replacing Ahrefs and SEMrush entirely with Claude
-connected to Google Search Console, arguing that
-third-party tools show estimated data everyone sees,
-while your own Search Console data is unique to you.
-(Source: Julian Goldie, YouTube —
-"Goldie Demand Engine", June 2026)
+**Jake Ward recommends:**
+Prioritizing third-party "best X" list placements
+over owned content, since 43.8% of AI citations
+come from these lists. AI cites what others say
+about you far more than what you say about yourself.
+(Source: Jake Ward, LinkedIn, 2026 —
+https://www.linkedin.com/posts/jakezward_438-of-ai-citations-come-from-best-x-activity-7470081516916776960)
 
-**Aleyda Solis recommends:**
-Using multiple data sources including Google Search
-Console, Bing Webmaster Tools AI Performance data,
-and third-party competitive intelligence platforms
-together to build a complete picture.
-(Source: Aleyda Solis, aleydasolis.com,
-"AI Search Prompt Library", June 2026)
+**Georgie Kemp recommends:**
+Optimizing your own YouTube content and building
+an ecosystem of companion blog posts, FAQs, and
+related resources around each video. One well-
+optimized video with a clean transcript creates
+multiple citation touchpoints.
+(Source: Georgie Kemp, womenintechseo.com, 2026 —
+https://www.womenintechseo.com/knowledge/optimise-existing-videos-for-ai-search/)
 
-**My position: Aleyda Solis is correct.**
-Julian Goldie's Search Console approach is clever for
-finding low-competition keyword opportunities on your
-own existing sites. But it has a blind spot — it cannot
-tell you what competitors are doing or what the broader
-market looks like. For a business like 100Hires
-entering new markets, you need both your own data AND
-market-level intelligence.
+**My position: Both are needed, in sequence.**
+Start with Jake Ward's approach — get mentioned in
+existing trusted "best X" lists first, because AI
+is already citing those pages. Then build Georgie
+Kemp's YouTube ecosystem to create owned citation
+assets that compound over time. Third-party first,
+owned second.
 
 ---
 
-## 4. What I Rejected and Why
+## 5. What I Rejected and Why
 
-### Rejected Idea 1: The Multi-Site Content Swarm
-Julian Goldie's system deploys one keyword into five
-articles across five different websites simultaneously.
+### Rejected Idea 1: Multi-Site Content Swarm
+Julian Goldie's system deploys one keyword into
+five articles across five different websites
+simultaneously.
 
 **Why I rejected it:**
-Lily Ray's HCU crash data shows this exact pattern —
-rapid multi-site expansion followed by catastrophic
-ranking loss. The strategy works until Google's
-classifier identifies the network, then every site in
-the network gets hit simultaneously. The risk is not
-gradual — it is sudden and total. For a single brand
-like 100Hires, losing five sites at once would be
-catastrophic.
-(Source: Lily Ray, HCU Presentation Data, 2026)
+For a single brand, losing five sites at once to
+an algorithm update would be catastrophic. The
+risk is not gradual — it is sudden and total.
+Lily Ray's data shows this exact pattern preceded
+every major HCU crash. Single-brand focus with
+deep unique signal beats multi-site volume every
+time for long-term survivability.
+(Source: Lily Ray, LinkedIn, 2026 —
+https://www.linkedin.com/pulse/another-way-youre-being-lied-geo-ai-search-lily-ray-t8shf/)
 
 ---
 
-### Rejected Idea 2: Prompt-First Content Creation
-Several sources recommend starting content creation
-with AI prompts — giving Claude or ChatGPT a keyword
-and letting it generate the content structure and
-outline first.
+### Rejected Idea 2: Platform-Agnostic Content
+Nathan Gotch recommends studying one platform per
+month and becoming a student of each surface
+separately — Google, YouTube, ChatGPT, Perplexity,
+Instagram, TikTok.
 
 **Why I rejected it:**
-Aleyda Solis's framework makes clear that content
-structure should be driven by real buyer journeys and
-actual audience language — pulled from Search Console,
-sales calls, support tickets, and community data. An
-AI generating its own outline produces the same
-structure every competitor's AI produces. Starting
-with prompt-first content is starting with the least
-unique possible input.
-(Source: Aleyda Solis, aleydasolis.com,
-"AI Search Optimization Checklist", May 2026)
+For a B2B SaaS company like 100Hires, most of
+these platforms are irrelevant. Instagram and
+TikTok do not drive B2B recruitment software
+purchases. Spreading effort across every platform
+dilutes focus from the channels that actually
+convert — Google search, LinkedIn, and YouTube.
+Platform agnosticism is a good philosophy for
+personal brands, not for focused B2B products.
+(Source: Nathan Gotch, YouTube, 2026 —
+https://youtu.be/HzgMpTVJpz0)
 
 ---
 
-## 5. My Original Ideas
+## 6. My Original Ideas
 
-### Original Idea: The Crash-Proof Content Ratio
+### Original Idea: The 30/70 Crash-Proof
+Content Ratio
 
 No source I researched proposed a specific ratio
 between AI-generated content and human-verified
 unique signal. My original idea is the 30/70 rule:
 
 For any piece of AI-assisted content to be
-crash-proof, at least 30% of the final content must
-consist of elements that cannot be generated from
-public data alone. This includes:
+crash-proof, at least 30% of the final content
+must consist of elements that cannot be generated
+from public data alone:
 - Firsthand case study data
 - Original survey or experiment results
 - Specific client or customer examples
@@ -213,32 +310,31 @@ The remaining 70% can be AI-assisted structure,
 explanation, and formatting.
 
 **Why it could work:**
-Lily Ray's crash data shows that sites using 0% unique
-signal get wiped out completely. Julian Goldie's
-growing sites all include case study embeds as a core
-requirement. Aleyda Solis's framework emphasizes
-original research as one of the highest-value citation
-assets. The 30/70 ratio is the threshold at which
-content becomes difficult for Google's classifier to
-categorize as unhelpful — because 30% of it genuinely
-cannot be replicated by any competitor using the same
-AI tools.
+Eli Schwartz's crash analysis shows sites using
+0% unique signal get wiped out. Julian Goldie's
+growing sites all require case study embeds.
+Aleyda Solis emphasizes original research as the
+highest-value citation asset. The 30/70 ratio is
+the threshold at which content becomes difficult
+for Google's classifier to categorize as unhelpful
+— because 30% of it genuinely cannot be replicated
+by any competitor using the same AI tools.
 
-This ratio has not been empirically tested. It is a
-hypothesis built from pattern recognition across the
-sources in this research base.
+This ratio is untested. It is a hypothesis built
+from pattern recognition across all 10 sources
+in this research base.
 
 ---
 
-## 6. Weaknesses of This Playbook
+## 7. Weaknesses of This Playbook
 
-**Weakness 1: Limited Source Diversity**
-The majority of sources in this playbook are English-
-language, Western-market practitioners. Aleyda Solis's
-data shows AI search behavior differs significantly
-by country and language. This playbook's
-recommendations may not apply equally in Thai,
-Southeast Asian, or non-English markets.
+**Weakness 1: Limited Market Perspective**
+All 10 sources are English-language, Western-market
+practitioners. Aleyda Solis's data shows AI search
+behavior differs significantly by country. This
+playbook may not apply equally in Thai, Southeast
+Asian, or non-English markets — which is directly
+relevant for a Thailand-based practitioner.
 
 **Weakness 2: The 30/70 Ratio is Untested**
 My original idea has not been empirically validated.
@@ -246,79 +342,87 @@ It is built from pattern recognition, not controlled
 experiment. It could be wrong.
 
 **Weakness 3: Rapidly Changing Landscape**
-Lily Ray's research was published in May 2026. Aleyda
-Solis updates her checklist monthly. Julian Goldie
-publishes new system updates daily. This playbook
-reflects the state of AI SEO in August 2026 and may
-be significantly outdated within 3-6 months.
+Georgie Kemp's YouTube research, Aleyda Solis's
+checklist, and Jake Ward's citation data were all
+published in 2026. This playbook reflects August
+2026 and may be significantly outdated within
+3-6 months as AI platforms update their behavior.
 
 **Weakness 4: No Original Data**
-This playbook synthesizes other people's research. It
-does not contain original experiments, original survey
-data, or original case studies. By my own Criterion 1
-(Unique Signal Test), this playbook would score poorly
-on survivability if it were a piece of SEO content.
+This playbook synthesizes other people's research.
+It contains no original experiments or case studies.
+By my own Criterion 1 (Unique Signal Test), this
+playbook would score poorly if it were a piece of
+SEO content — it contains no signal that competitors
+cannot replicate.
+
+**Weakness 5: B2B SaaS Bias**
+Most recommendations are filtered through a B2B
+SaaS lens. AI Master's video workflow and Georgie
+Kemp's YouTube optimization are more applicable
+to content creators and e-commerce than to B2B
+software companies.
 
 ---
 
-## 7. Who I Would NOT Recommend Following
+## 8. Who I Would NOT Recommend Following
 
 ### Julian Goldie — with important caveats
 
 I would not recommend following Julian Goldie's
-tactical system for anyone building a long-term brand.
+tactical system for anyone building a long-term
+single brand.
 
 **Why:**
-His multi-site content swarm approach, rapid AI
-deployment, and volume-first philosophy match the
-exact pattern of sites that crashed in Google's 2023
-Helpful Content Update — as documented by Lily Ray's
-crash data.
-
-His results are real right now. His sites are growing.
-But so were the sites in Lily Ray's crash screenshots
-— right before they lost 90%+ of their traffic
-overnight.
+His multi-site content swarm approach and volume-
+first philosophy match the exact pattern of sites
+that crashed in Google's 2023 Helpful Content
+Update — as documented by Lily Ray's research.
+His results are real right now. But so were the
+sites in the crash screenshots — right before
+they lost 90%+ of their traffic overnight.
 
 **The specific risk:**
 Julian Goldie's system is optimized for speed and
-volume. It is not optimized for survivability. For
-someone building a personal brand or a single company
-website, a sudden 90% traffic loss is not recoverable
-the way it might be across a portfolio of throwaway
-sites.
+volume across throwaway site portfolios. It is not
+optimized for survivability of a single brand.
+A sudden 90% traffic loss on your only website
+is not recoverable the way it might be across a
+portfolio of expendable sites.
 
-**The caveat:**
-His Search Console keyword research methodology is
-genuinely useful and low-risk. His understanding of
-how to structure content for AI visibility is sound.
-The problem is specifically the multi-site swarm
-deployment and volume-first philosophy — not his
-entire body of work.
+**What I would still use from him:**
+His Search Console keyword research methodology
+is genuinely useful and low-risk. His understanding
+of how to structure content for AI visibility is
+sound. The problem is specifically the multi-site
+swarm deployment and volume-first philosophy —
+not his entire body of work.
+(Source: Julian Goldie, YouTube, June 2026 —
+https://youtu.be/8NAjD6HcHzk)
 
 ---
 
-## 8. Validation Criteria
+## 9. Validation Criteria
 
 Before implementing any recommendation from this
 playbook, apply these three tests:
 
 **Test 1: Unique Signal Test**
-What does this content have that no AI could generate
-from public data alone?
+What does this content have that no AI could
+generate from public data alone?
 
 **Test 2: Survivability Test**
 If Google launched an HCU-style update tomorrow,
 would this content survive?
 
 **Test 3: AI Visibility Test**
-Would ChatGPT or Perplexity cite this content when
-answering a question in this niche?
+Would ChatGPT or Perplexity cite this content
+when answering a question in this niche?
 
-If a piece of content fails any one of these three
-tests, it should be revised before publication —
-regardless of how well it is optimized for keywords,
-schema, or AI prompts.
+If a piece of content fails any one of these
+three tests, revise before publishing — regardless
+of how well it is optimized for keywords, schema,
+or AI prompts.
 
 *For the full research base behind these criteria,
 see [/research/sources.md](research/sources.md)*

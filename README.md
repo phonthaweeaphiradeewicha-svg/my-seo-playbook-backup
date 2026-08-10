@@ -29,4 +29,20 @@
 - I had trouble to rename the repository on **GitHub**, but I clicked twice, so it worked. 
 - During the time that I got completely stuck, I used Claude AI to help diagnose the issue and find solutions, then verified and applied the fixes myself.
 
+## Stage 3: Strategic Playbook
+
+Based on the research collected in Stage 2, I produced
+a full Strategic Playbook for AI-Powered SEO Content
+Production. See [playbook.md](playbook.md).
+
+The playbook includes:
+- Core strategic framework with validation criteria
+- 3 expert disagreements with my own position on each
+- 2 rejected ideas with clear reasoning
+- 1 original idea (the 30/70 Crash-Proof Content Ratio)
+- Honest weaknesses and limitations
+- Assessment of which expert I would not recommend
+
+All recommendations are cited to specific sources
+in [/research/sources.md](research/sources.md).
 

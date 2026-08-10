@@ -4,7 +4,7 @@
 - **Claude Code** (by Anthropic) - Installed via Cursor Extensions Marketplace
 - **Codex** (by openai) - Installed via Cursor Extensions Marketplace
 
-## Steps Completed 
+## Stage 1: Download & Install
 1. Installed Cursor IDE on Windows -> Open the installed program.
 2. Navigate from **Cursor Agents (White Screen)** to the **Cursor Editor (Black Screen)**.
 3. Opened the **Extensions panel** in the Cursor Editor.

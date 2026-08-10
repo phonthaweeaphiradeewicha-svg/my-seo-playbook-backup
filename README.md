@@ -1,4 +1,4 @@
-# hundredhires-jgm-portfolio-phont - Portfolio Project Step 1
+# portfolio-project - Portfolio Project 
 ## Tools Installed
 - **Cursor IDE** - Downloaded from https://cursor.com/ and installed on Windows
 - **Git** - Downloaded from https://git-scm.com/install/windows and installed on Windows

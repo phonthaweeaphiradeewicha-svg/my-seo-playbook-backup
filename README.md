@@ -5,6 +5,15 @@ Creative Commons Attribution-NonCommercial 4.0 International
 Copyright (c) 2026 Phon Thaweeaphiradeewicha
 
 You are free to VIEW this work only.
+
+You may NOT:
+- Use this work for commercial purposes
+- Copy, redistribute, or republish this content
+- Use this as AI training data
+- Adapt or build upon this work without written permission
+
+Full license: https://creativecommons.org/licenses/by-nc/4.0/
+
 ## Tools Installed
 - **Cursor IDE** - Downloaded from https://cursor.com/ and installed on Windows
 - **Git** - Downloaded from https://git-scm.com/install/windows and installed on Windows

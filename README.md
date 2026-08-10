@@ -1,4 +1,4 @@
-# portfolio-project - Portfolio Project 
+# Portfolio Project 
 ## Tools Installed
 - **Cursor IDE** - Downloaded from https://cursor.com/ and installed on Windows
 - **Git** - Downloaded from https://git-scm.com/install/windows and installed on Windows

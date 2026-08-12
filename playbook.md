@@ -10,32 +10,13 @@
 ## ⚠️ Usage Notice
 This playbook contains original strategic analysis built
 from researching 10 practitioners across LinkedIn, YouTube,
-and blogs. No copy-paste prompts or templates are provided
+and other sources. No copy-paste prompts or templates are provided
 intentionally. What is provided are analytical frameworks
 and validation criteria that require human judgment to apply.
 
 ---
 
-## 1. Core Principle
-
-The central finding from researching 10 experts is this:
-AI-powered SEO content production is not a shortcut —
-it is a multiplier. It multiplies good strategy into
-great results, and bad strategy into faster failure.
-
-Every expert who is currently winning shares one trait:
-they ground AI output in real human experience, original
-data, or genuine expertise. Every approach that has
-crashed or will crash shares one trait: volume with no
-unique signal behind it.
-
-The strategic question is never "how do I produce more
-content with AI?" It is always "what unique signal do
-I have that AI can help me scale?"
-
----
-
-## 2. Strategic Framework
+## 1. Strategic Framework
 
 ![AI SEO Content Production Framework](research/other/framework-diagram.png)
 

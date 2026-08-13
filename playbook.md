@@ -47,7 +47,7 @@ However, Georgie Kemp suggested to optimize existing YouTube Videos for AI searc
 (Source: Georgie Kemp, womenintechseo.com, 2026 —
 https://www.womenintechseo.com/knowledge/optimise-existing-videos-for-ai-search/)
 
-In this case, I would side on both Jake Ward and Georgie Kemp because they both have their own research and innovative strategy to let LLMs recognize the brand. Overall, both experts found different opportunity and build their own solutions to reach the goal.
+In this case, I would side on both Jake Ward and Georgie Kemp because they both have their own research and innovative strategy to let LLMs recognize the brand. For Jake Ward, his strategy could be the first because it requires no content creation and produce immediate AI visibility, while George kemp's YouTube optimization could build citation assets that compound over time. Overall, both experts found different opportunity and build their own solutions to reach the goal.
 
 ## What I Rejected and Why::
 **Rejection 1: Julian Goldie's multi-site content automation**

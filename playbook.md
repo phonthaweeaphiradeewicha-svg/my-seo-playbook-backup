@@ -31,7 +31,7 @@ page have that no AI could generate from public data
 alone? If the answer is nothing, the content will not
 survive the next algorithm update.
 (Source: Eli Schwartz, LinkedIn, 2026 —
-https://www.linkedin.com/posts/schwartze_many-think-ai-content-is-the-new-silver-bullet-share-7456620033339904000)
+https://www.linkedin.com/posts/schwartze_many-think-ai-content-is-the-new-silver-bullet-share-7456620033339904000-wy_o/)
 
 **Criterion 2: Survivability Test**
 Ask: if Google launched a Helpful Content Update

@@ -18,13 +18,6 @@ and validation criteria that require human judgment to apply.
 
 ## 1. Strategic Framework
 
-![AI SEO Content Production Framework](research/other/framework-diagram.png)
-
-*See [/research/sources.md](research/sources.md) for
-the research base behind this framework.*
-
-The framework operates on three validation criteria:
-
 **Criterion 1: Unique Signal Test**
 Before producing any AI content, ask: what does this
 page have that no AI could generate from public data

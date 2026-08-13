@@ -35,8 +35,13 @@ On the LinkedIn post, Lily Ray indicated that many top-cited brands in LLM respo
 https://www.linkedin.com/pulse/another-way-youre-being-lied-geo-ai-search-lily-ray-t8shf/)
 
 **Disagreement 3**
+Based on Jake Ward's AI Visibility Playbook, 43.8% of AI citations come from "best X" (listicles/comparison) pages more than homepages, landing pages, product pages, and blogs combined. Jake Ward's core playbook includes trusting in third-party comparison/review pages more than self-published homepages, getting on existing best lists that AI cites to aim fir high placements, creating personal "best-of", "alternatives," and comparison pages, keeping pages continuously updated, repeating mentions across multiple trusted sites to act as stronger signals to AI models than a single source, and ranking the external pages that recommend the personal brand.
+(Source: Jake Ward, LinkedIn, 2026 —
+https://www.linkedin.com/posts/jakezward_438-of-ai-citations-come-from-best-x-activity-7470081516916776960-Jv9k?)
 
-
+However, Georgie Kemp suggested to optimize existing YouTube Videos for AI search because the research indicates YouTube outperforms traditional signals (like backlink profiles) for AI visibility across ChatGPT, Google AI Overviews, and AI Mode. LLMs focus on readable transcripts, descriptions, titles, and schema to increase the odds of being cited, even over videos with higher view counts.
+(Source: Georgie Kemp, womenintechseo.com, 2026 —
+https://www.womenintechseo.com/knowledge/optimise-existing-videos-for-ai-search/)
 
 
 

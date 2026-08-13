@@ -16,4 +16,10 @@ and validation criteria that require human judgment to apply.
 
 ---
 
+## Where Experts Disagree
+**Disagreement 1**
+On YouTube, Julian Goldie explains how AI is useful for himself and other organizations, especially in AI SEO. AI could support in showing helpful & convenient contents, meta descriptions & link generation, uncovering low-competition & high relevance keywords by being the personal consultant, generating journalistic contents, and ranking across various search engines (e.g., Google Search, Google AI, Google Overviews, Google AI Mode, and ChatGPT recommendations). 
+(Source: Julian Goldie, YouTube, June 2026 —
+https://youtu.be/8NAjD6HcHzk)
 
+On the contrary, 

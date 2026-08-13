@@ -47,7 +47,7 @@ cite this page? Pages that get cited share three traits
 — specific claims, verifiable data, and clear entity
 signals, especially appearances in "best X" lists.
 (Source: Jake Ward, LinkedIn, 2026 —
-https://www.linkedin.com/posts/jakezward_438-of-ai-citations-come-from-best-x-activity-7470081516916776960)
+https://www.linkedin.com/posts/jakezward_438-of-ai-citations-come-from-best-x-activity-7470081516916776960-Jv9k/)
 
 ---
 

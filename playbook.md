@@ -7,7 +7,7 @@
 
 ---
 
-## ⚠️ Usage Notice
+## ⚠️ Usage Notice::
 This playbook contains original strategic analysis built
 from researching 10 practitioners across LinkedIn, YouTube,
 and other sources. No copy-paste prompts or templates are provided
@@ -16,7 +16,7 @@ and validation criteria that require human judgment to apply.
 
 ---
 
-## Where Experts Disagree
+## Where Experts Disagree::
 **Disagreement 1:**
 On YouTube, Julian Goldie explained how AI is useful for himself and other organizations, especially in AI SEO. AI could support in showing helpful & convenient contents, meta descriptions & link generation, uncovering low-competition & high relevance keywords by being the personal consultant, generating journalistic contents, and ranking across various search engines (e.g., Google Search, Google AI, Google Overviews, Google AI Mode, and ChatGPT recommendations). 
 (Source: Julian Goldie, YouTube, June 2026 —
@@ -43,7 +43,7 @@ However, Georgie Kemp suggested to optimize existing YouTube Videos for AI searc
 (Source: Georgie Kemp, womenintechseo.com, 2026 —
 https://www.womenintechseo.com/knowledge/optimise-existing-videos-for-ai-search/)
 
-## What I Rejected and Why
+## What I Rejected and Why::
 **Rejection 1: Julian Goldie's multi-site content automation**
 Based on my thought, using AI to generate journalistic contents may be currently working, but that does not mean that it would work forever because Google would possibly downgrade this method just like how they did with spun content plugins.
 (Source: Julian Goldie, YouTube, June 2026 —
@@ -54,10 +54,19 @@ By distributing contents on community channels like Reddit, Quora, and social me
 (Source: Ross Simmonds, LinkedIn, May 2024 —
 https://www.linkedin.com/pulse/whats-generative-engine-optimization-geo-how-do-ross-simmonds-wol8c/?trackingId=jKLWXGEDTMuj3uUdqOER5A%3D%3D)
 
-## My Original Ideas
-From my research, none of my 10 experts discussed about using TikTok for AI-powered SEO content production. 
+## My Original Ideas::
+From my research, none of my 10 experts discussed about using TikTok for AI-powered SEO content production. Most sources focused on Google, YouTube, ChatGPT, and Perplexity.
 
-People search on TikTok the same way they use ChatGPT, Gemini, or Claude and my idea is to use TikTok's search function to identify what questions that real people are asking in short-form video format, then use AI tools to produce content that answers those exact questions like videos or blog posts.
+People search on TikTok the same way they use ChatGPT, Gemini, or Claude and my idea is to use TikTok's search function to identify what questions that real people are asking in short-form video format, then use AI tools to produce content that answers those exact questions like videos or blog posts. By utilizing this idea, people could easily generate organic engagement rather than spending on advertisement, minimizing the budget while maximizing reach.
+
+## Weaknesses of This Playbook::
+1. All sources are English/Western, still not applicable in some regions in Asia like Thailand.
+2. My original idea is still untested, even it sounds possible.
+3. There are various disagreements in the research, so some information could not be useful.
+4. No original data or real experiments in this playbook.
+
+## Who I Would NOT Recommend::
+Overall, I would obviously not recommend Julian Goldie because his advice seems to work short-term and match the exact pattern of sites that crashed historically. Based on his strategy, it is similar to let AI cook multiple food with similar taste without any chef's involvement, which platforms with search engine would not recognize those contents in the future anymore due to the ordinariness.
 
 
 

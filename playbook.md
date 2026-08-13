@@ -71,7 +71,7 @@ https://youtu.be/HzgMpTVJpz0)
 ## Weaknesses of This Playbook::
 1. All sources are English/Western, still not applicable in some regions in Asia like Thailand.
 2. My original idea is still untested, even it sounds possible.
-3. There are various disagreements in the research, so some information could not be useful.
+3. There are various disagreements in this research, so some information could not be useful.
 4. No original data or real experiments in this playbook.
 
 ## Who I Would NOT Recommend::

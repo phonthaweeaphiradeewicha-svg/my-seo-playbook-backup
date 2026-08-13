@@ -51,7 +51,7 @@ https://www.linkedin.com/posts/jakezward_438-of-ai-citations-come-from-best-x-ac
 
 ---
 
-## 3. Key Recommendations
+## 2. Key Recommendations
 
 **Recommendation 1: Start at the bottom of the funnel**
 Build money pages first — product, service, and pricing
@@ -130,7 +130,7 @@ https://youtu.be/duGOA6ZiGtE)
 
 ---
 
-## 4. Where Experts Disagree
+## 3. Where Experts Disagree
 
 ### Disagreement 1: Does AI Content Volume Work
 Long-Term?
